@@ -1,3 +1,27 @@
+# FM22-10
+
+```
+Department of the Army Field Manual
+Leadership
+March 1951
+AGO 3167C - Feb
+By order of the Secretary of the Army
+```
+
+## Official
+
+```
+Edward F Witsell
+Major General, USA
+The Adjutant General
+```
+
+```
+J. Lawton Collins
+Chief of Staff
+United States Army
+```
+
 # FORWARD
 
 ## PURPOSE OF THE STUDY OF LEADERSHIP
