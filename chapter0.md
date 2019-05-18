@@ -6,23 +6,16 @@ Leadership
 March 1951
 AGO 3167C - Feb
 By order of the Secretary of the Army
-```
 
-## Official
-
-```
 Edward F Witsell
 Major General, USA
 The Adjutant General
-```
 
-```
 J. Lawton Collins
 Chief of Staff
 United States Army
 ```
 
-# FORWARD
 
 ## PURPOSE OF THE STUDY OF LEADERSHIP
 
@@ -30,7 +23,7 @@ Today, more than ever in history, the Army is in need of leadership of the highe
 
 The purpose of this manual is to provide military leaders, actual and prospective, with a practical guide for applying the principles of leadership.In the ultimate sense, leadership is not inherent; it depends upon traits which can be developed, and upon the application of techniques which can be learned.It is an art which can be acquired, cultivated, and practiced by anyone who possesses the mental and physical ability and the moral and ethical integrity expected of a commissioned or noncommissioned officer. Developing the art is a continuing process which involves the recognition and practice of the basic traits of leadership and the understanding and application of sound leadership principles and techniques.
 
-This manual stresses the importance of self improvement. The principles, character traits, and procedures set forth are offered as an assistance to the leader in the problem of controlling others. By applying these procedures to his own practice and by analyzing his own traits of character the leader will possess a yardstick for measuring his own success or failure.
+This manual stresses the importance of self improvement. The principles, character traits, and procedures set forth are offered as an assistance to the leader in the problem of controlling others. By applying these procedures to his own practice and by analyzing his own traits of character the leader will possess a yardstick for measuring his own success or failure.
 
 Despite this guide, it constantly must be borne in mind that successful leaders of the past were not all of the same pattern; nor did they all use the same methods of attaining success. All of them, however, consciously or unconsciously understood the basic concepts of leadership and successfully practiced many of the techniques presented in this
 manual.

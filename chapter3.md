@@ -1,11 +1,17 @@
 # CHAPTER 3 SPECIAL LEADERSHIP TECHNIQUES
 
+
 ## Section I. INTRODUCTION
 
+
 ### GENERAL
+
+
 It is by no means true that every situation which the commander encounters requires a special leadership technique. The techniques listed in chapter2 have an inherent elasticity and flexibility and are adaptable to any situation. Special supplementary leadership techniques are required, however, to meet certain problems such as duty in the combat zone or communications zone, mobilization training, demobilization, occupation duty, and leading minority groups. This chapter presents certain techniques useful in the solution of these special problems.
 
+
 ## Section II. COMBAT ZONE
+
 
 ### ADDITIONAL LEADERSHIP TECHNIQUES FOR COMBAT
 
@@ -48,9 +54,11 @@ be compensated for by commitment of disproportionate forces. Combat training mus
   1. Minimize or eliminate, when possible, those physical and combat conditions which might produce fear or panic.
   1. Inculcate in his command those factors which oppose such psychological conditions as anxiety, tension, insecurity, and uncertainty, by keeping his men informed and by promoting group identification.
   1. Furnish every possible support, physical and moral, for units which are isolated. Do not allow such units to feel that they are neglected, abandoned, or fighting a sacrifice mission.
-  1. Emphasize indoctrination which will prepare the unit to wage aggressive combat in the fact of reverses, of isolation, and of the unexpected.
+  1. Emphasize indoctrination which will prepare the unit to wage aggressive combat in the fact of reverses of isolation and of the unexpected.
 
-## LEADERSHIP FOR ATTACHED UNITS
+
+### LEADERSHIP FOR ATTACHED UNITS
+
 
 1. One of the major leadership problems that confronts the commanders of larger combat units such as divisions, corps, and armies is the proper handling of attached units. In corps especially, there is a continuous turn-over of divisions and separate units during the course of a campaign. The corps commander has the difficult problem of integrating newly attached units into the corps effort and of giving them a sense of belonging to the team. This calls for certain leadership techniques of a special nature in addition to the more general techniques previously discussed.
 1. To integrate newly attached units into his command, the commander should
@@ -114,7 +122,7 @@ There are additional techniques applicable to leadership of larger units in the 
 1. One of the most important leadership responsibilities of the commander both before and during mobilization training is the establishment of harmonious relations with the members of the adjacent civilian communities. The commander must stimulate public support and cooperation by personal appearances before civic groups and personally visits to important civic officials such as the mayor and chief of police. During such visits, the commander and members of his staff must explain the mission of the units undergoing mobilization training and point out various problems that are likely to arise when a large military organization is suddenly superimposed upon a civilian community. Through mutual understanding between the civilian and the military of each other's problems, undesirable incidents involving misunderstanding or animosity between soldier and civilian will be held to a minimum. Moreover, the civilian will not only accept but also welcome the soldier and thus make a substantial contribution to the soldier morale and esprit de corps.
 1. Still another important leadership responsibility of the commander during mobilization training is the proper indoctrination of the cadre during their training prior- to the arrival of fillers. The commander must impress upon all members of the cadre that they will be the backbone of the unit that is being formed around them; that they must establish and maintain the highest standards of discipline, training, and military courtesy so that they, in turn, can suitably train and set the example for the fillers. The commander who effectively applies the principles of leadership during the cadre training period produces a cadre that is efficient and well disciplined-a cadre that will be the nucleus for an efficient and well-disciplined organization. The unfit must be eliminated from the cadre.
 
-###. COMBAT LEADERSHIP TRAINING
+### COMBAT LEADERSHIP TRAINING
 
 1. In training a new unit, the commander will recognize that ability to lead troops in combat is the prime requirement of junior leaders. Moreover, facility in handling troops is a technique and as such is far easier for a commander to develop in his subordinates than is leadership of the inspirational type. Men do not learn to lead troops from theoretical instruction alone. They learn mainly by experience in command. Therefore, the commander must insure that the opportunity to command exists. For example, he must insist that all echelons of command follow strictly the provisions of the mobilization training programs which, for most divisional units, require that nearly 50percent of training time be spent in unit field exercises.
 1. In this phase, "know your job" is a basic element in instruction of new units. Realistic adherence to high standards of duty in all training is the fundamental.
@@ -147,7 +155,7 @@ There are additional techniques applicable to leadership of larger units in the 
   1. Realize that, while a command post exercise may be held for a commander and his headquarters with only the next lower echelon present, the exercise will always benefit by the presence of as many headquarters as can be spared at that stage of training.
   1. Insist that staffs be used in a realistic manner to plan and supervise all phases of the exercise.
 
-27. FIELD EXERCISES
+### FIELD EXERCISES
 
 1. General. Field exercises, particularly those for small units, provide the best training test of combat leadership ability and the best training experience in developing it. Next to battle itself, they are the end toward which all training is directed. Failure to stress this type of training results in low standards of leadership being brought to the battlefield. The techniques of conducting field exercises are covered in appropriate training manuals. However, because of their direct relation to leadership training, the following techniques are given special emphasis.
 1. Techniques.
@@ -174,15 +182,12 @@ After each war, the Army is confronted with the difficult problem of demobilizat
 5. To care for billions of dollar’s worth of supplies and equipment, and to assist in the disposal of surplus.
 6. To maintain morale in the Armed Forces and civilian population.
 7. To continue the induction or enlistment of personnel as required.
-
 8. To secure public acceptance of the demobilization plan.
 
 ### TECHNIQUES
-Leadership techniques that particularly apply
-to demobilization are
+Leadership techniques that particularly apply to demobilization are
 
 1. Early Planning in all Elements of the Command.
-
   1. The essence of a demobilization plan, regardless of the size of the military unit involved, is that it is fair and just to the individual, does not leave a weak, ineffective defense force, and can be carried out expeditiously with the means available. Mass demobilization procedures which overtax facilities, both in the theater and in the continental United States, and which strip fighting, and service units of essential personnel are not justified solely because of personal desires. These desires, expressed individually or in mass, exert strong pressure for the rapid release of personnel from service without regard to military expediency.
   2. Early planning in division and higher commands is dependent upon directives received from higher authority. It is here that new leaders must be trained to take over the responsibilities of experienced demobilized veterans. All troops must be carefully oriented on the why and how of the demobilization plan.
   3. Education of Both Army Personnel and Civilians. One of the most important objectives of a demobilization program is public acceptance. Although all Army personnel must know and understand the plan, basic support must come from the civilian population. This support can be gained only by providing a sound, fair plan which is made known through a carefully conceived, forcefully executed public information program. Initial impetus is gained through indoctrinating officers and men who will, in turn, inform friends and relatives. Continuous emphasis must be placed on the responsibilities of the Armed Forces for furthering national interest. The press and the public must be solidly behind procedures of the demobilization plan.
@@ -197,7 +202,7 @@ Some methods that may prove useful in such units for building and maintaining mo
   1. To make men leaving the Army feel that their service has been appreciated and that every effort has been made to separate them from the service in an efficient manner.
   1. To indoctrinate remaining men with the importance of their work and service.
 
-### ADDITIONAL TECHNIQUES FOR UNITS COMPOSEDOF PERSONNEL TO BE DEMOBILIZED
+### ADDITIONAL TECHNIQUES FOR UNITS COMPOSED OF PERSONNEL TO BE DEMOBILIZED
 
 1. Welcome veterans to the unit. Foster a “sense of belonging" among those assigned from other units.
 2. Orient and inform personnel. Officers and men must be kept informed of the status of demobilization as it affects them and of any reasons for delays which may develop.
@@ -244,10 +249,10 @@ Within our nation there are many groups which are considered minority groups-rac
 ### TECHNIQUES
 
 A need for outstanding leadership is imperative in units composed of personnel from recognized minority groups. This need cannot be met by increased quantity of leaders alone; the quality of leadership must be of the highest order. The following techniques are presented for the purpose of amplifying the basic principles of leadership and of applying them to minority group units:
-a. Recognize that all soldiers are entitled to identical treatment and to fundamental rights, privileges, and opportunities regardless of differences in race, color, creed, or cultural background. To accept less for your unit invites unfavorable criticism; to demand more creates an undesirable reaction from all elements.
-b. Set the example in tolerance, understanding, and freedom from prejudice. Become worthy of being emulated as a broad-minded, unprejudiced leader.
-c. Avoid creating the impression of either hostility or patronizing condescension.
-d. Develop an understanding of minority group problems and feelings by observation and study.
+1. Recognize that all soldiers are entitled to identical treatment and to fundamental rights, privileges, and opportunities regardless of differences in race, color, creed, or cultural background. To accept less for your unit invites unfavorable criticism; to demand more creates an undesirable reaction from all elements.
+1. Set the example in tolerance, understanding, and freedom from prejudice. Become worthy of being emulated as a broad-minded, unprejudiced leader.
+1. Avoid creating the impression of either hostility or patronizing condescension.
+1. Develop an understanding of minority group problems and feelings by observation and study.
 
 It is only by first-hand knowledge that any race or group may be understood. Diligent study of group problems tends to destroy false beliefs and conceptions.
 

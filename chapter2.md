@@ -2,7 +2,7 @@
 
 ## Section I. LEADERSHIP PRINCIPLES AND TRAITS
 
-### LEADERSHIP PRINCIPLES
+#### LEADERSHIP PRINCIPLES
 
 Leadership principles apply equally in all commands. These are:
 1. Principle I. Know your job.
@@ -36,6 +36,7 @@ The principles of leadership discussed below are equally applicable to all level
 ### LEADERSHIP TRAITS
 
 Leadership traits are human qualities that are of great value to the leader. Possession of these traits simplifies the task of applying leadership principles and assists greatly in winning confidence, respect, and cooperation. An individual can benefit by studying the traits considered important to the leader. By careful self-analysis and application, he can develop those traits in which he is deficient and further strengthen those in which he is strong. A study of our Nation's great military leaders reveals that none possessed all the leadership traits to the maximum degree, but that a weakness in some traits was more than compensated for by strength in others. Critical self-analysis will enable an individual to realize the traits in which he is strong and to capitalize upon them. At the same time, he must endeavor to improve those traits in which he is weak. The following list of leadership traits is by no means all-inclusive but does contain those of paramount importance to the leader:
+
 1. Alertness is vigilance, promptness, and wide awakeness.
 2. Bearing denotes desirable physical appearance, dress, and deportment.
 3. Courage must be both physical and moral.
@@ -55,15 +56,13 @@ Leadership traits are human qualities that are of great value to the leader. Pos
 18. Loyalty must extend both up and down. A leader cannot expect loyalty from his subordinates unless he is conspicuously loyal to them and to his superiors.
 19. Sympathy is the capacity of sharing the feelings of those with whom one is associated.
 20. Tact is the ability to deal with subordinates and superiors in an appropriate manner without giving offense.
-
 21. Unselfishness is the studied avoidance of caring for or providing for one's own comfort or advantage at the expense of others.
 
-## Section II. LEADERSHIP TECHNIQUES
+### Section II. LEADERSHIP TECHNIQUES
 
 ### GENERAL
 
 1. It is important to note that in small units the leader can influence and direct his men through close personal contact, whereas in large units he must rely in great measure upon his staff and subordinate commanders to assist him in making his leadership effective. The larger the unit, the more complex become the problems of leadership, but the greater become the means available to the commander to assist him in the exercise of leadership. The larger unit commander must consider carefully the leadership aspect of all basic policies which he prescribes or tolerates.
-
 1. Obviously, it is not feasible to cite all possible leadership techniques pertinent to a particular leadership principle, since techniques vary with the size of the command, the personality of the commander, and the situation. In the following paragraphs, some of the more common techniques are listed under each principle. These techniques are methods of applying a principle that are effective under most circumstances. Over a period of time, the leader will develop techniques of his own which will be better suited to his own personality and which he himself will be able to employ effectively.
 
 ### LEADERSHIP TECHNIQUES WHICH ARE APPLICABLE TO ALL LEADERS
